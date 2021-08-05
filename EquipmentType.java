@@ -1,0 +1,4 @@
+enum EquipmentType
+{
+ MANUAL,KETTLEBELL,ADJUSTABLE,SOLEF63;
+}
