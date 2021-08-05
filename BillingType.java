@@ -1,0 +1,4 @@
+enum BillingType
+{
+   CREDIT,DEBIT,COMMERCIAL,TIMESHEET;
+}
